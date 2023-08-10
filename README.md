@@ -1,0 +1,1 @@
+## Implementation of the KNN algorithm for Intelligent systems course homework
